@@ -4,19 +4,19 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 10
+      "likes": 5
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 12
+      "likes": 8
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 5
+      "likes": 3
     },
     {
       "id": 4,
@@ -47,36 +47,6 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
-    },
-    {
-      "name": "Elephant",
-      "image": "https://www.ikea.com/us/en/images/products/jaettestor-soft-toy-elephant-gray__0710185_pe727388_s5.jpg",
-      "likes": 2,
-      "id": 9
-    },
-    {
-      "name": "Train",
-      "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8N3x8fGVufDB8fHx8fA%3D%3D&w=1000&q=80",
-      "likes": 0,
-      "id": 10
-    },
-    {
-      "name": "Mario",
-      "image": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?cs=srgb&dl=pexels-pixabay-163036.jpg&fm=jpg",
-      "likes": 20,
-      "id": 11
-    },
-    {
-      "name": "Elephant",
-      "image": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?cs=srgb&dl=pexels-pixabay-163036.jpg&fm=jpg",
-      "likes": 0,
-      "id": 12
-    },
-    {
-      "name": "r",
-      "image": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?cs=srgb&dl=pexels-pixabay-163036.jpg&fm=jpg",
-      "likes": 0,
-      "id": 13
     }
   ]
 }
